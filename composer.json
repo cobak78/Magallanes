@@ -1,5 +1,5 @@
 {
-  "name": "andres-montanez/magallanes",
+  "name": "cobak78/magallanes",
   "description": "The Deployment Tool for PHP Applications",
   "homepage": "http://magephp.com",
   "license": "MIT",
@@ -9,6 +9,10 @@
     {
       "name": "Andrés Montañez",
       "email": "andresmontanez@gmail.com"
+    },
+    {
+      "name": "Jaime Merino",
+      "email": "cobak78@gmail.com"
     }
   ],
   "require": {
